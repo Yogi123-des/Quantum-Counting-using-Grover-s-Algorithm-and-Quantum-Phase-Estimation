@@ -1,7 +1,7 @@
 """
 Quantum Counting in Qiskit
 
-This script implements:
+This script implements;
 
 1. Build a Grover oracle for a Boolean function with known solutions.
 2. Build the Grover iteration G = D O on the search register.
